@@ -101,7 +101,7 @@
 
 
 
-<b> (DeleteAFTER) EDIT PICS here:</b>
+<b> Phase 4 - Pictures:</b>
 
 
 <p align="center">

@@ -1,7 +1,7 @@
 <h1>👨‍💻Enterprise Windows Server Hybrid Infrastructure Project:</h1>
 
 <h2>Description</h2>
- <b> Designed and deployed a multi-phase, production-simulated enterprise environment. This lab replicates the full lifecycle of corporate IT operations: from foundational networking and Active Directory to high-availability storage, PKI security, and Hybrid Cloud integration with Microsoft Intune. <br />
+ <b> Designed and deployed a multi-phase, production-simulated enterprise environment. This lab replicates the full lifecycle of corporate IT operations: from foundational networking and Active Directory to high-availability storage, PKI security, and Hybrid Cloud integration with Microsoft Intune. Learning Material and Project Execution Time: 10/2026 to 5/2026 <br />
 
 
 <h2>🏗️ Infrastructure Stack</h2>
@@ -93,7 +93,6 @@
 - <b> High-Availability Storage: Built a redundant storage stack using iSCSI SAN simulation, RAID 5, and Failover Clustering.</b>
 - <b> Data Governance: Managed file shares via DFS-Namespaces and DFS-Replication, utilizing FSRM for hard quotas and active file screening.</b>
 
-
 <h2></h2>
 
 <h2>💼 Phase 4 Skills Demonstrated: </h2>
@@ -101,38 +100,113 @@
 <h2></h2>
 
 
+
 <b> (DeleteAFTER) EDIT PICS here:</b>
 
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Phase 4 - RAID - PIC 1:  <br/>
+<img src="https://i.imgur.com/TkD3Zgy.png" height="80%" width="80%" alt="Phase 4 - RAID - PIC 11"/>
 <br />
+ <h2></h2>
+ 
+<p align="center"> 
+Phase 4 - RAID - PIC 2:  <br/>
+<img src="https://i.imgur.com/3FGBXiG.png" height="80%" width="80%" alt="Phase 4 - RAID - PIC 2"/>
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <h2></h2>
+ 
+<p align="center"> 
+Phase 4 - RAID - PIC 3:  <br/>
+<img src="https://i.imgur.com/oKGciPh.png" height="80%" width="80%" alt="Phase 4 - RAID - PIC 3"/>
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ <h2></h2>
 
+ <p align="center"> 
+Phase 4 - RAID - PIC 4:  <br/>
+<img src="https://i.imgur.com/pnMsHSK.png" height="80%" width="80%" alt="Phase 4 - RAID - PIC 4 "/>
+<br />
+ <h2></h2>
+
+  <p align="center"> 
+Phase 4 - Storage Pool - PIC 1:  <br/>
+<img src="https://i.imgur.com/y1DP69I.png" height="80%" width="80%" alt="Phase 4 - Storage Pool - PIC 1"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - Storage Pool - PIC 2:  <br/>
+<img src="https://i.imgur.com/IRuOdmg.png" height="80%" width="80%" alt="Phase 4 - Storage Pool - PIC 2"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - ISCSI Config - PIC 1:  <br/>
+<img src="https://i.imgur.com/Vh2x6F4.png" height="80%" width="80%" alt="Phase 4 - ISCSI Config - PIC 1"/>
+<br />
+ <h2></h2>
+  
+ <p align="center"> 
+Phase 4 - ISCSI Config - PIC 2:  <br/>
+<img src="https://i.imgur.com/TRmr6Z9.png" height="80%" width="80%" alt="Phase 4 - ISCSI Config - PIC 2"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - PIC 9:  <br/>
+<img src="" height="80%" width="80%" alt="Phase 4 - PIC 9"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - PIC 10:  <br/>
+<img src="" height="80%" width="80%" alt="Phase 4 - PIC 10"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - PIC 11:  <br/>
+<img src="" height="80%" width="80%" alt="Phase 4 - PIC 11"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - PIC 12:  <br/>
+<img src="" height="80%" width="80%" alt="Phase 4 - PIC 12"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - PIC 13:  <br/>
+<img src="" height="80%" width="80%" alt="Phase 4 - PIC 13"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - PIC 14:  <br/>
+<img src="" height="80%" width="80%" alt="Phase 4 - PIC 14"/>
+<br />
+ <h2></h2>
+
+  <p align="center"> 
+Phase 4 - PIC 15:  <br/>
+<img src="" height="80%" width="80%" alt="Phase 4 - PIC 15"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - PIC 16:  <br/>
+<img src="" height="80%" width="80%" alt="Phase 4 - PIC 16"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - PIC 17:  <br/>
+<img src="" height="80%" width="80%" alt="Phase 4 - PIC 17"/>
+<br />
+ <h2></h2>
+
+  
 <!--
  ```diff
 - text in red

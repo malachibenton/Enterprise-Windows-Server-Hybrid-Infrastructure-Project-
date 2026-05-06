@@ -88,9 +88,23 @@ Phase 3 - Configuring the DHCP Failover Cluster (Load Balanced Mode) with Shared
 <br />
  <h2></h2>
 
+  <p align="center">
+Phase 3 - Successful Implentation of DHCP Failover Cluster (Load Balanced Mode) with Shared Authentication:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQFdRa5atuqK2A/feedshare-shrink_800/B56Z2V_ghMGwAc-/0/1776337946934?e=1779926400&v=beta&t=OVJs7M0dXxLo-QsU2bj0VO0NbSsDPthyPBCx05kIDzU" height="80%" width="80%" alt="Phase 3 - Successful Implentation of DHCP Failover Cluster (Load Balanced Mode) with Shared Authentication"/>
+<br />
+ <h2></h2>
 
+   <p align="center">
+Phase 3 - Client Successfully recived an DHCP address from the Client Network Scope:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQG410GQAy9ZSA/feedshare-shrink_20/B56Z2V_ggkKMAI-/0/1776337946874?e=1779926400&v=beta&t=9J9m-GrUhFO83pFLvZbSWqzfBACnlnyO7A1trnvzRAw" height="80%" width="80%" alt="Phase 3 - Client Successfully recived an DHCP address from the Client Network Scope"/>
+<br />
+ <h2></h2>
 
- 
+   <p align="center">
+Phase 3 - Client Successfully Has Joined the Domain now that it has a dhcp address:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQGg5xvMoIW0cg/feedshare-image-high-res/B56Z2V_giGIIAU-/0/1776337947060?e=1779926400&v=beta&t=EJgw8E5uk0miaVALoEKPEwh3r0rcPPAjynLV6piFk0U" height="80%" width="80%" alt="Phase 3 - Client Successfully Has Joined the Domain now that it has a dhcp address"/>
+<br />
+ <h2></h2>
 
 <b> Project Highlights:</b>
 - <b> Configured DHCP Failover and optimized DNS (Aging/Scavenging, Stub Zones) for network resilience.</b>

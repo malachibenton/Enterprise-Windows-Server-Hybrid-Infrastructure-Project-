@@ -60,8 +60,37 @@
 - <b>✔️Scope configuration for the Client Network Subnet (According to the Network Topology from Phase 1) </b>
 
  <h2></h2>
-<b> (DeleteAFTER) Pics here:</b>
+ 
+<b> Phase 3: Pictures:</b>
 <h2></h2>
+
+<p align="center">
+Phase 3 - Joining Member Servers to the Domain and Placing them in the proper OU - PIC 1:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQGl22wg5WW5PQ/feedshare-shrink_1280/B56Z2V_gjKGsAM-/0/1776337947045?e=1779926400&v=beta&t=AbqB_vIGkdw26hegX_08kPQjuLJpsleCRPxnUtCZqCI" height="80%" width="80%" alt="Phase 3 - Joining Member Servers to the Domain and Placing them in the proper OU - PIC 1"/>
+<br />
+ <h2></h2>
+ 
+ <p align="center">
+Phase 3 - After Installing the Role on the Memeber Servers, I added my account to the DHCP Admins Local Group:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQEWzzFYronDMg/feedshare-image-high-res/B56Z2V_gf5IsAU-/0/1776337946822?e=1779926400&v=beta&t=ADy9E4WZd3qtTlZE68pjFnPLcdwzGpLVOCyKgVO5GFU" height="80%" width="80%" alt="Phase 3 - After Installing the Role on the Memeber Servers, I added my account to the DHCP Admins Local Group"/>
+<br />
+ <h2></h2>
+ 
+ <p align="center">
+Phase 3 - Configured the Client Network DHCP Scope and Scope Options on the Primary DHCP Server:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQE0rCD-KW6FaA/feedshare-shrink_800/B56Z2V_gjXHAAg-/0/1776337947136?e=1779926400&v=beta&t=UrftFOH1vcsiwLtxqAgBNOxzvc83SoehH7KVt_2Zo6o" height="80%" width="80%" alt="Phase 3 - Configured the Client Network DHCP Scope and Scope Options on the Primary DHCP Server"/>
+<br />
+ <h2></h2>
+
+  <p align="center">
+Phase 3 - Configuring the DHCP Failover Cluster (Load Balanced Mode) with Shared Authentication - PIC 1:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQHB8ksBx-4-yw/feedshare-shrink_480/B56Z2V_ggoHgAo-/0/1776337946877?e=1779926400&v=beta&t=SDI7uteo1oSCfWLUviWscRevneQflZeRG9FzpBZuvec" height="80%" width="80%" alt="Phase 3 - Configuring the DHCP Failover Cluster (Load Balanced Mode) with Shared Authentication - PIC 1"/>
+<br />
+ <h2></h2>
+
+
+
+ 
 
 <b> Project Highlights:</b>
 - <b> Configured DHCP Failover and optimized DNS (Aging/Scavenging, Stub Zones) for network resilience.</b>
@@ -94,13 +123,6 @@
 - <b> Data Governance: Managed file shares via DFS-Namespaces and DFS-Replication, utilizing FSRM for hard quotas and active file screening.</b>
 
 <h2></h2>
-
-<h2>💼 Phase 4 Skills Demonstrated: </h2>
-- <b>Storage Management | High Availability | DFS | FSRM | Windows Server | File Services | Access Control .</b>
-<h2></h2>
-
-
-
 <b> Phase 4 - Pictures:</b>
 
 
@@ -223,6 +245,13 @@ Phase 4 - Successful Implementation of DFS Replication:  <br/>
 <img src="https://i.imgur.com/RA5OeBK.png" height="80%" width="80%" alt="Phase 4 - Successful Implementation of DFS Replicatione"/>
 <br />
  <h2></h2>
+  
+<h2>💼 Phase 4 Skills Demonstrated: </h2>
+- <b>Storage Management | High Availability | DFS | FSRM | Windows Server | File Services | Access Control .</b>
+<h2></h2>
+
+
+
 
 <h2>🚀 Phase 5: COMING SOON </h2>
 

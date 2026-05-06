@@ -73,6 +73,34 @@
 - <b> DNS Administration | DHCP Configuration | High Availability Network Services | Windows Server .</b>
 <h2></h2>
 
+<h2>🚀 Phase 4: File Services, Storage & High Availability: </h2>
+
+
+<h2>🔧 Key Implementations:</h2>
+
+- <b>✔️Configured and implemented redundant storage using RAID 5  </b>
+- <b>✔️Configured Storage Spaces and iSCSI (SAN simulation) for centralized storage access </b>
+- <b>✔️Deployed File Server with shared drives and folder redirection </b>
+- <b>✔️Implemented NTFS and share permissions for role-based access control </b>
+- <b>✔️Enhanced storage management with File Server Resource Manager (FSRM): Hard quotas to control disk usage & Active file screening to enforce file policies</b>
+- <b>✔️Configured Distributed File System (DFS): Namespace for unified file access and Replication (DFS-R) with scheduled sync for redundancy </b>
+
+ <h2></h2>
+<b> (DeleteAFTER) Pics here:</b>
+<h2></h2>
+
+<b> Project Highlights:</b>
+- <b> High-Availability Storage: Built a redundant storage stack using iSCSI SAN simulation, RAID 5, and Failover Clustering.</b>
+- <b> Data Governance: Managed file shares via DFS-Namespaces and DFS-Replication, utilizing FSRM for hard quotas and active file screening.</b>
+
+
+<h2></h2>
+
+<h2>💼 Phase 4 Skills Demonstrated: </h2>
+- <b>Storage Management | High Availability | DFS | FSRM | Windows Server | File Services | Access Control .</b>
+<h2></h2>
+
+
 <b> (DeleteAFTER) EDIT PICS here:</b>
 
 

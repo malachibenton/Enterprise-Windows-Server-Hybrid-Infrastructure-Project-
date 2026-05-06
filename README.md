@@ -123,7 +123,7 @@ Phase 4 - RAID - PIC 3:  <br/>
  <h2></h2>
 
  <p align="center"> 
-Phase 4 - RAID - PIC 4:  <br/>
+Phase 4 - Sucessful RAID - PIC 4:  <br/>
 <img src="https://i.imgur.com/pnMsHSK.png" height="80%" width="80%" alt="Phase 4 - RAID - PIC 4 "/>
 <br />
  <h2></h2>
@@ -153,59 +153,79 @@ Phase 4 - ISCSI Config - PIC 2:  <br/>
  <h2></h2>
 
  <p align="center"> 
-Phase 4 - PIC 9:  <br/>
-<img src="" height="80%" width="80%" alt="Phase 4 - PIC 9"/>
+Phase 4 - Sucessful ISCSI Config - PIC 3:  <br/>
+<img src="https://i.imgur.com/s71OzID.png" height="80%" width="80%" alt="Phase 4 - ISCSI Config - PIC 3"/>
 <br />
  <h2></h2>
 
  <p align="center"> 
-Phase 4 - PIC 10:  <br/>
-<img src="" height="80%" width="80%" alt="Phase 4 - PIC 10"/>
+Phase 4 - Share Drives and NTFS Permissions Implementation - PIC 1:  <br/>
+<img src="https://i.imgur.com/A9QSIRD.png" height="80%" width="80%" alt="Phase 4 - Share Drives and NTFS Permissions Implementation - PIC 1"/>
 <br />
  <h2></h2>
 
  <p align="center"> 
-Phase 4 - PIC 11:  <br/>
-<img src="" height="80%" width="80%" alt="Phase 4 - PIC 11"/>
+Phase 4 - Share Drives and NTFS Permissions Implementation - PIC 2:  <br/>
+<img src="https://i.imgur.com/5ueaYdm.png" height="80%" width="80%" alt="Phase 4 - Share Drives and NTFS Permissions Implementation - PIC 2"/>
 <br />
  <h2></h2>
 
  <p align="center"> 
-Phase 4 - PIC 12:  <br/>
-<img src="" height="80%" width="80%" alt="Phase 4 - PIC 12"/>
+Phase 4 - Sucessful Share Drives and NTFS Permissions Implementation - PIC 3:  <br/>
+<img src="https://i.imgur.com/JvNanqd.png" height="80%" width="80%" alt="Phase 4 - Share Drives and NTFS Permissions Implementation - PIC 3"/>
 <br />
  <h2></h2>
 
  <p align="center"> 
-Phase 4 - PIC 13:  <br/>
-<img src="" height="80%" width="80%" alt="Phase 4 - PIC 13"/>
+Phase 4 - Folder Redirection Configuration for Finance & Sales Dept - PIC 1:  <br/>
+<img src="https://i.imgur.com/cjRAPPy.png" height="80%" width="80%" alt="Phase 4 - Folder Redirection Configuration for Finance & Sales Dept - PIC 1"/>
 <br />
  <h2></h2>
 
  <p align="center"> 
-Phase 4 - PIC 14:  <br/>
-<img src="" height="80%" width="80%" alt="Phase 4 - PIC 14"/>
+Phase 4 - Successful Folder Redirection Configuration for Finance & Sales Dept - PIC 2:  <br/>
+<img src="https://i.imgur.com/DDGLOkM.png" height="80%" width="80%" alt="Phase 4 - Successful Folder Redirection Configuration for Finance & Sales Dept - PIC 2"/>
 <br />
  <h2></h2>
 
   <p align="center"> 
-Phase 4 - PIC 15:  <br/>
-<img src="" height="80%" width="80%" alt="Phase 4 - PIC 15"/>
+Phase 4 - FSRM - Configuring and Deploying Hard Qouta For the Deptment Share Drive:  <br/>
+<img src="https://i.imgur.com/GeOosOR.png" height="80%" width="80%" alt="Phase 4 - FSRM - Configuring and Deploying Hard Qouta For the Deptment Share Drive"/>
 <br />
  <h2></h2>
 
  <p align="center"> 
-Phase 4 - PIC 16:  <br/>
-<img src="" height="80%" width="80%" alt="Phase 4 - PIC 16"/>
+Phase 4 - FSRM - Configuring and Deploying Active File Screens For the Deptment Share Drive - PIC 1:  <br/>
+<img src="https://i.imgur.com/JgRld5k.png" height="80%" width="80%" alt="Phase 4 - FSRM - Configuring and Deploying Active File Screens For the Deptment Share Drive - PIC 1/>
 <br />
  <h2></h2>
 
  <p align="center"> 
-Phase 4 - PIC 17:  <br/>
-<img src="" height="80%" width="80%" alt="Phase 4 - PIC 17"/>
+Phase 4 - FSRM - Successful Deployment of Active File Screens For the Deptment Share Drive:  <br/>
+<img src="https://i.imgur.com/ZHXLJ6b.png" height="80%" width="80%" alt="Phase 4 - FSRM - Successful Deployment of Active File Screens For the Deptment Share Drive"/>
 <br />
  <h2></h2>
 
+ <p align="center"> 
+Phase 4 - Configuring and Deploying a DFS Namespace:  <br/>
+<img src="https://i.imgur.com/1O1IsHO.png" height="80%" width="80%" alt="Phase 4 - Configuring and Deploying a DFS Namespacee"/>
+<br />
+ <h2></h2>
+
+  <p align="center"> 
+Phase 4 - Configuring and Deploying a DFS Replication (With Replication Schedule) Group for Folders in the DFS Namespace - PIC 1 :  <br/>
+<img src="https://i.imgur.com/Fq0Qwov.png" height="80%" width="80%" alt="Phase 4 - Configuring and Deploying a DFS Replication (With Replication Schedule) Group for Folders in the DFS Namespace"/>
+<br />
+ <h2></h2>
+
+ <p align="center"> 
+Phase 4 - Successful Implementation of DFS Replication:  <br/>
+<img src="https://i.imgur.com/RA5OeBK.png" height="80%" width="80%" alt="Phase 4 - Successful Implementation of DFS Replicatione"/>
+<br />
+ <h2></h2>
+
+
+<b> PROJECT BY MALACHI BENTON <br />
   
 <!--
  ```diff

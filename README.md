@@ -34,8 +34,50 @@
 - <b>✔️ Implemented Group Policy Objects (GPOs) to enforce: Password and account lockout policies • Windows Defender Firewall configurations • Logon banners and software deployment (I know its not ideal to do with GPOs instead Microsoft Intune, but wanted to perform it) • Printer deployment • PowerShell execution policy restrictions • Script Block Logging for enhanced visibility </b>
 <h2></h2>
 
-<b> (DeleteAFTER) Pics here:</b>
+<b> Phase 2: Pictures:</b>
 <h2></h2>
+
+<p align="center">
+Phase 2 - Implemented a mixed OU model (Tiered Administration with Department Specific Organizational Units:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQHzamNFkC-71Q/feedshare-shrink_800/B56Z2MczSxKYAc-/0/1776177853866?e=1779926400&v=beta&t=NQILznLArAP_vHCjj-ZZyMoiAyOSmhfVbwPnRIYtPaI" height="80%" width="80%" alt="Phase 2 - Implemented a mixed OU model (Tiered Administration with Department Specific Organizational Units"/>
+<br />
+ <h2></h2>
+
+ <p align="center">
+Phase 2 - Here is the CSV File I used in the Powershell Bulk User Creation Stage:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQFpKjpPFRot9A/feedshare-image-high-res/B56Z2MczM3IYAY-/0/1776177853475?e=1779926400&v=beta&t=BZm9CyYegoQXSEV2KlgaP1da8S-unOaL1SvXzhYu3Wc" height="80%" width="80%" alt="Phase 2 - Here is the CSV File I used in the Powershell Bulk User Creation Stage  "/>
+<br />
+ <h2></h2>
+
+ <p align="center">
+Phase 2 - Automatting Bulk User Account Provisioning with Powershell Script:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQHtezdr28LXXw/feedshare-image-high-res/B56Z2MczNdGoAU-/0/1776177853587?e=1779926400&v=beta&t=9Rfcmzv_Hc2O8-YDJ20eTT2YNeJJ0tPQ-uhel3Cw5Uk" height="80%" width="80%" alt="Phase 2 - Automatting Bulk User Account Provisioning with Powershell Script"/>
+<br />
+ <h2></h2>
+
+ <p align="center">
+Phase 2 - Assigning a User to the IT Helpdesk Group to Prep for Group Delegation of Control:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQESKHhUXrkvog/feedshare-shrink_1280/B56Z2MczPvHkAM-/0/1776177853748?e=1779926400&v=beta&t=I0Q_YoK8mrsH0na0Ac7gb_nSGl-AtFTTQKGyI0QrBSw" height="80%" width="80%" alt="Phase 2 - Assigning a User to the IT Helpdesk Group to Prep for Group Delegation of Control "/>
+<br />
+ <h2></h2>
+
+  <p align="center">
+Phase 2 - Delegating Control of Password Resets to the "IT Helpdesk Group":  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQFFVrCD6MPdmw/feedshare-image-high-res/B56Z2MczPBKgAU-/0/1776177853718?e=1779926400&v=beta&t=t5qPXkwuVRdIZTe46l9S0EYB5rc2mM9sWsi_uG5KEKw" height="80%" width="80%" alt="Phase 2 - Delegating Control of Password Resets to the IT Helpdesk Group "/>
+<br />
+ <h2></h2>
+
+   <p align="center">
+Phase 2 - Defining Custom Security Policies using the Default Domain Policy GPO:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQHxS0vYeiAcaA/feedshare-image-high-res/B56Z2MczNoKoAQ-/0/1776177853565?e=1779926400&v=beta&t=5lkMWoxghYijLE8lgtMjYG5CVYOeXb9V1_aV92IES3Y" height="80%" width="80%" alt="Phase 2 - Defining Custom Security Policies using the Default Domain Policy GPO "/>
+<br />
+ <h2></h2>
+
+  <p align="center">
+Phase 2 - Deploying a Shared Printer Using GPPs to the Finance and Sales Depts:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQH6WTj9B_hfoA/feedshare-shrink_800/B56Z2MczPrHkAg-/0/1776177853682?e=1779926400&v=beta&t=crewbPzv40T2VBLUdnt7spzIREa3a_g4jctBWc8UBi8" height="80%" width="80%" alt="Phase 2 - Deploying a Shared Printer Using GPPs to the Finance and Sales Dept "/>
+<br />
+ <h2></h2>
 
 <b> Project Highlights:</b>
 - <b> Structured OU hierarchy for scalable user and device management: Using the "Tiered Administration mixed with Department OU Structure".</b>

@@ -14,8 +14,45 @@
 - <b>  Storage: DFS-R, Failover Clustering, iSCSI SAN Simulation, FSRM. </b> 
 
 <h2>🚀 Phase 1: Network Infrastructure Deployment: </h2>
-<b> (DeleteAFTER) Pics here:</b>
+<b> Phase 1 Pictures:</b>
+
 <h2></h2>
+
+<p align="center">
+Phase 1 - Fully Detailed Topology of The Network Im Building  <br/>
+<img src="https://i.imgur.com/xG8e6MH.png" height="80%" width="80%" alt="Phase 1 - Fully Detailed Topology of The Network Im Building "/>
+<br />
+ <h2></h2>
+
+ <p align="center">
+Phase 1 - Fully Detailed IP Scheme for the Servers  <br/>
+<img src="https://i.imgur.com/ySJttmL.png" height="80%" width="80%" alt="Phase 1 - Fully Detailed IP Scheme for the Servers"/>
+<br />
+ <h2></h2>
+
+  <p align="center">
+  <br/>
+<img src="https://i.imgur.com/RkiLG1J.png" height="80%" width="80%" alt="Phase 1 Pic 3"/>
+<br />
+ <h2></h2>
+
+   <p align="center">
+  <br/>
+<img src="https://i.imgur.com/Ltbrylu.png" height="80%" width="80%" alt="Phase 1 Pic 4"/>
+<br />
+ <h2></h2>
+
+    <p align="center">
+  <br/>
+<img src="https://i.imgur.com/uPqEvSV.png" height="80%" width="80%" alt="Phase 1 Pic 5"/>
+<br />
+ <h2></h2>
+
+     <p align="center">
+  <br/>
+<img src="https://i.imgur.com/PBFz6Ti.png" height="80%" width="80%" alt="Phase 1 Pic 6"/>
+<br />
+ <h2></h2>
 
 <b> Project Highlights:</b>
 - <b> Deployed a virtualized enterprise environment using Hyper-V.</b>

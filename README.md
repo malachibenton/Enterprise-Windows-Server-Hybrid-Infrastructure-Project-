@@ -42,13 +42,13 @@ Phase 1 - Fully Detailed IP Scheme for the Servers  <br/>
 <br />
  <h2></h2>
 
-    <p align="center">
+   <p align="center">
   <br/>
 <img src="https://i.imgur.com/uPqEvSV.png" height="80%" width="80%" alt="Phase 1 Pic 5"/>
 <br />
  <h2></h2>
 
-     <p align="center">
+   <p align="center">
   <br/>
 <img src="https://i.imgur.com/PBFz6Ti.png" height="80%" width="80%" alt="Phase 1 Pic 6"/>
 <br />

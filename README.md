@@ -129,17 +129,8 @@ Phase 3 - Client Successfully Has Joined the Domain now that it has a dhcp addre
 - <b>✔️Configured Distributed File System (DFS): Namespace for unified file access and Replication (DFS-R) with scheduled sync for redundancy </b>
 
  <h2></h2>
-<b> (DeleteAFTER) Pics here:</b>
-<h2></h2>
-
-<b> Project Highlights:</b>
-- <b> High-Availability Storage: Built a redundant storage stack using iSCSI SAN simulation, RAID 5, and Failover Clustering.</b>
-- <b> Data Governance: Managed file shares via DFS-Namespaces and DFS-Replication, utilizing FSRM for hard quotas and active file screening.</b>
-
-<h2></h2>
+ 
 <b> Phase 4 - Pictures:</b>
-
-
 <p align="center">
 Phase 4 - RAID - PIC 1:  <br/>
 <img src="https://i.imgur.com/TkD3Zgy.png" height="80%" width="80%" alt="Phase 4 - RAID - PIC 11"/>
@@ -259,7 +250,13 @@ Phase 4 - Successful Implementation of DFS Replication:  <br/>
 <img src="https://i.imgur.com/RA5OeBK.png" height="80%" width="80%" alt="Phase 4 - Successful Implementation of DFS Replicatione"/>
 <br />
  <h2></h2>
-  
+
+<b> Project Highlights:</b>
+- <b> High-Availability Storage: Built a redundant storage stack using iSCSI SAN simulation, RAID 5, and Failover Clustering.</b>
+- <b> Data Governance: Managed file shares via DFS-Namespaces and DFS-Replication, utilizing FSRM for hard quotas and active file screening.</b>
+
+<h2></h2>
+
 <h2>💼 Phase 4 Skills Demonstrated: </h2>
 - <b>Storage Management | High Availability | DFS | FSRM | Windows Server | File Services | Access Control .</b>
 <h2></h2>

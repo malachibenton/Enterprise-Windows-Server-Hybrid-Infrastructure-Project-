@@ -68,7 +68,7 @@ Phase 2 - Delegating Control of Password Resets to the "IT Helpdesk Group":  <br
  <h2></h2>
 
    <p align="center">
-Phase 2 - Defining Custom Security Policies using the Default Domain Policy GPO:  <br/>
+Phase 2 - Defining Custom Password Security Policies using the Default Domain Policy GPO:  <br/>
 <img src="https://media.licdn.com/dms/image/v2/D5622AQHxS0vYeiAcaA/feedshare-image-high-res/B56Z2MczNoKoAQ-/0/1776177853565?e=1779926400&v=beta&t=5lkMWoxghYijLE8lgtMjYG5CVYOeXb9V1_aV92IES3Y" height="80%" width="80%" alt="Phase 2 - Defining Custom Security Policies using the Default Domain Policy GPO "/>
 <br />
  <h2></h2>
@@ -76,6 +76,25 @@ Phase 2 - Defining Custom Security Policies using the Default Domain Policy GPO:
   <p align="center">
 Phase 2 - Deploying a Shared Printer Using GPPs to the Finance and Sales Depts:  <br/>
 <img src="https://media.licdn.com/dms/image/v2/D5622AQH6WTj9B_hfoA/feedshare-shrink_800/B56Z2MczPrHkAg-/0/1776177853682?e=1779926400&v=beta&t=crewbPzv40T2VBLUdnt7spzIREa3a_g4jctBWc8UBi8" height="80%" width="80%" alt="Phase 2 - Deploying a Shared Printer Using GPPs to the Finance and Sales Dept "/>
+<br />
+ <h2></h2>
+
+  <p align="center">
+Phase 2 - Defining Custom Account Lockout Policies Security Policies using the Default Domain Policy GPO:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQEcJDHmNtKi4g/feedshare-image-high-res/B56Z2MczN5GwAU-/0/1776177853612?e=1779926400&v=beta&t=B3igVnHbRBXJLsorqUEkRS6gDY5ywUlCZJR5hFFGo3o" height="80%" width="80%" alt="Phase 2 - Deploying a Shared Printer Using GPPs to the Finance and Sales Dept "/>
+<br />
+ <h2></h2>
+
+   <p align="center">
+Phase 2 - Full Configuration of GPOs in the Environment:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQFPOc-x22QrHw/feedshare-shrink_1280/B56Z2MczPcIIAM-/0/1776177853647?e=1779926400&v=beta&t=28tlZTLacAr3aX8aDyJOy9UIng7VK7JgE-PBHIuVtws" height="80%" width="80%" alt="Phase 2 - Full Configuration of GPOs in the Environment "/>
+<br />
+ <h2></h2>
+
+ 
+   <p align="center">
+Phase 2 - Successful GPO Application on the Domain Controller using gpresult report:  <br/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQERlG_UY2dMcQ/feedshare-shrink_1280/B56Z2MczNaGwAM-/0/1776177853520?e=1779926400&v=beta&t=UO2A-bIMrk6yPjJa_q-I_dyqiy6oWR8eYI-KoJ3muy0" height="80%" width="80%" alt="Phase 2 - Successful GPO Application on the Domain Controller using gpresult report"/>
 <br />
  <h2></h2>
 
